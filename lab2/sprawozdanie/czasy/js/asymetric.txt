@@ -1,0 +1,505 @@
+Philosopher 0 is thinking
+Philosopher 1 is thinking
+Philosopher 2 is thinking
+Philosopher 3 is thinking
+Philosopher 4 is thinking
+Philosopher 0 took the first fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #27#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #27#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #31#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #31#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #25#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #26#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #27#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #27#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #28#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #29#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #25#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #26#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #32#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #33#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #30#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #27#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #32#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #32#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #29#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #29#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #25#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #26#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #27#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #26#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #28#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #27#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #30#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #30#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #28#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #29#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #29#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #29#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #31#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #32#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #29#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #28#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #28#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #29#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher 2 took the first fork
+Philosopher 4 took the first fork
+Philosopher: #2# time: #32#
+Philosopher 2took the second fork and started eating
+Philosopher: #4# time: #32#
+Philosopher 4took the second fork and started eating
+Philosopher 2 has put down the first fork
+Philosopher 2 has put down the second fork
+Philosopher 4 has put down the first fork
+Philosopher 4 has put down the second fork
+Philosopher: #0# time: #10874#
+Philosopher 0took the second fork and started eating
+Philosopher 3 took the first fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher: #3# time: #11385#
+Philosopher 3took the second fork and started eating
+Philosopher 0 took the first fork
+Philosopher: #0# time: #26#
+Philosopher 0took the second fork and started eating
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 3 took the first fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher: #3# time: #30#
+Philosopher 3took the second fork and started eating
+Philosopher 0 took the first fork
+Philosopher: #0# time: #26#
+Philosopher 0took the second fork and started eating
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher 3 took the first fork
+Philosopher 0 took the first fork
+Philosopher: #3# time: #26#
+Philosopher 3took the second fork and started eating
+Philosopher: #0# time: #27#
+Philosopher 0took the second fork and started eating
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 3 took the first fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher: #3# time: #29#
+Philosopher 3took the second fork and started eating
+Philosopher 0 took the first fork
+Philosopher: #0# time: #28#
+Philosopher 0took the second fork and started eating
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 3 took the first fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher: #3# time: #31#
+Philosopher 3took the second fork and started eating
+Philosopher 0 took the first fork
+Philosopher: #0# time: #27#
+Philosopher 0took the second fork and started eating
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 3 took the first fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher: #3# time: #30#
+Philosopher 3took the second fork and started eating
+Philosopher 0 took the first fork
+Philosopher: #0# time: #27#
+Philosopher 0took the second fork and started eating
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 3 took the first fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher: #3# time: #29#
+Philosopher 3took the second fork and started eating
+Philosopher 0 took the first fork
+Philosopher: #0# time: #27#
+Philosopher 0took the second fork and started eating
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 3 took the first fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher: #3# time: #26#
+Philosopher 3took the second fork and started eating
+Philosopher 0 took the first fork
+Philosopher: #0# time: #28#
+Philosopher 0took the second fork and started eating
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 3 took the first fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher: #3# time: #29#
+Philosopher 3took the second fork and started eating
+Philosopher 0 took the first fork
+Philosopher: #0# time: #28#
+Philosopher 0took the second fork and started eating
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 3 took the first fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher: #3# time: #27#
+Philosopher 3took the second fork and started eating
+Philosopher 0 took the first fork
+Philosopher: #0# time: #18#
+Philosopher 0took the second fork and started eating
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 3 took the first fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher: #3# time: #27#
+Philosopher 3took the second fork and started eating
+Philosopher 0 took the first fork
+Philosopher: #0# time: #19#
+Philosopher 0took the second fork and started eating
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher 3 took the first fork
+Philosopher: #1# time: #17278#
+Philosopher 1took the second fork and started eating
+Philosopher: #3# time: #35#
+Philosopher 3took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher: #1# time: #28#
+Philosopher 1took the second fork and started eating
+Philosopher 3 took the first fork
+Philosopher: #3# time: #17#
+Philosopher 3took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher: #1# time: #25#
+Philosopher 1took the second fork and started eating
+Philosopher 3 took the first fork
+Philosopher: #3# time: #22#
+Philosopher 3took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher 3 took the first fork
+Philosopher: #1# time: #23#
+Philosopher 1took the second fork and started eating
+Philosopher: #3# time: #24#
+Philosopher 3took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher 3 took the first fork
+Philosopher: #1# time: #30#
+Philosopher 1took the second fork and started eating
+Philosopher: #3# time: #30#
+Philosopher 3took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher 3 took the first fork
+Philosopher: #1# time: #29#
+Philosopher 1took the second fork and started eating
+Philosopher: #3# time: #30#
+Philosopher 3took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher 3 took the first fork
+Philosopher: #1# time: #23#
+Philosopher 1took the second fork and started eating
+Philosopher: #3# time: #24#
+Philosopher 3took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher 3 took the first fork
+Philosopher: #1# time: #18#
+Philosopher 1took the second fork and started eating
+Philosopher: #3# time: #18#
+Philosopher 3took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher 3 took the first fork
+Philosopher: #1# time: #20#
+Philosopher 1took the second fork and started eating
+Philosopher: #3# time: #20#
+Philosopher 3took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 3 has put down the first fork
+Philosopher 3 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher: #1# time: #19#
+Philosopher 1took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher: #1# time: #27#
+Philosopher 1took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher: #1# time: #24#
+Philosopher 1took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher: #1# time: #23#
+Philosopher 1took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher: #1# time: #39#
+Philosopher 1took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher: #1# time: #35#
+Philosopher 1took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher: #1# time: #33#
+Philosopher 1took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 0 took the first fork
+Philosopher: #0# time: #8583#
+Philosopher 0took the second fork and started eating
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher 0 took the first fork
+Philosopher: #0# time: #32#
+Philosopher 0took the second fork and started eating
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher 0 took the first fork
+Philosopher: #0# time: #44#
+Philosopher 0took the second fork and started eating
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher 0 took the first fork
+Philosopher: #0# time: #36#
+Philosopher 0took the second fork and started eating
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher 0 took the first fork
+Philosopher: #0# time: #20#
+Philosopher 0took the second fork and started eating
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher 0 took the first fork
+Philosopher: #0# time: #19#
+Philosopher 0took the second fork and started eating
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher 0 took the first fork
+Philosopher: #0# time: #23#
+Philosopher 0took the second fork and started eating
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher: #1# time: #3819#
+Philosopher 1took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher: #1# time: #31#
+Philosopher 1took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher: #1# time: #39#
+Philosopher 1took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 1 took the first fork
+Philosopher: #1# time: #39#
+Philosopher 1took the second fork and started eating
+Philosopher 1 has put down the first fork
+Philosopher 1 has put down the second fork
+Philosopher 0 took the first fork
+Philosopher: #0# time: #2948#
+Philosopher 0took the second fork and started eating
+Philosopher 0 has put down the first fork
+Philosopher 0 has put down the second fork

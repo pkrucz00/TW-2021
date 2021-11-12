@@ -1,0 +1,900 @@
+Philosopher number 1 has started thinking
+Philosopher number 0 has started thinking
+Philosopher number 2 has started thinking
+Philosopher number 4 has started thinking
+Philosopher number 3 has started thinking
+Philosopher number 4 has stopped thinking
+Philosopher number 3 has stopped thinking
+Philosopher number 1 has stopped thinking
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 2 has stopped thinking
+Philosopher number 0 has lifted the left fork
+Philosopher number 1 can eat because referee told him to
+Philosopher number 3 can eat because referee told him to
+Philosopher number 4 can eat because referee told him to
+Philosopher: #0# time: #0# [ms]
+Philosopher number 3 has lifted the left fork
+Philosopher number 4 has lifted the left fork
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher: #4# time: #501# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 1 has lifted the left fork
+Philosopher number 0 has put down the right fork
+Philosopher: #1# time: #501# [ms]
+Philosopher number 2 can eat because referee told him to
+Philosopher number 0 has started thinking
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 1 has stopped eating
+Philosopher number 0 has stopped thinking
+Philosopher number 4 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 4 has put down the left fork
+Philosopher number 2 has lifted the left fork
+Philosopher number 1 has put down the right fork
+Philosopher: #3# time: #1003# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 0 can eat because referee told him to
+Philosopher number 1 has started thinking
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 0 has lifted the left fork
+Philosopher: #0# time: #1# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has stopped eating
+Philosopher number 1 has stopped thinking
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher: #2# time: #1508# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 3 has put down the left fork
+Philosopher number 1 can eat because referee told him to
+Philosopher number 1 has lifted the left fork
+Philosopher number 0 has started thinking
+Philosopher number 4 has lifted the left fork
+Philosopher: #4# time: #1# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher: #1# time: #502# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 0 has lifted the left fork
+Philosopher number 3 has stopped thinking
+Philosopher number 2 has put down the right fork
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher: #3# time: #1# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 2 has started thinking
+Philosopher number 3 has stopped eating
+Philosopher number 4 has stopped thinking
+Philosopher number 1 has stopped eating
+Philosopher number 2 has stopped thinking
+Philosopher: #0# time: #502# [ms]
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has put down the left fork
+Philosopher number 2 can eat because referee told him to
+Philosopher number 1 has started thinking
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 2 has lifted the left fork
+Philosopher number 4 has lifted the left fork
+Philosopher number 3 has put down the right fork
+Philosopher: #2# time: #0# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 3 has started thinking
+Philosopher number 1 has stopped thinking
+Philosopher number 0 has stopped eating
+Philosopher number 3 has stopped thinking
+Philosopher number 0 has put down the left fork
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 1 can eat because referee told him to
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher number 2 has started thinking
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher: #4# time: #502# [ms]
+Philosopher number 1 has lifted the left fork
+Philosopher: #1# time: #1# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 4 has stopped eating
+Philosopher number 0 has stopped thinking
+Philosopher: #3# time: #501# [ms]
+Philosopher number 2 has stopped thinking
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 0 can eat because referee told him to
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 0 has lifted the left fork
+Philosopher: #0# time: #1# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 4 has stopped thinking
+Philosopher number 1 has stopped thinking
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher: #2# time: #501# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 1 can eat because referee told him to
+Philosopher number 1 has lifted the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher number 4 has lifted the left fork
+Philosopher: #4# time: #1# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 4 has stopped eating
+Philosopher number 0 has stopped thinking
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 3 has stopped thinking
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher: #1# time: #502# [ms]
+Philosopher number 0 can eat because referee told him to
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher: #3# time: #0# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 0 has lifted the left fork
+Philosopher number 3 has stopped eating
+Philosopher number 4 has stopped thinking
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher: #0# time: #501# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 1 has started thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has put down the left fork
+Philosopher number 2 has lifted the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher number 4 has lifted the left fork
+Philosopher: #2# time: #1# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 2 has stopped eating
+Philosopher number 1 has stopped thinking
+Philosopher number 3 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 0 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher: #4# time: #502# [ms]
+Philosopher number 0 has put down the left fork
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 2 has put down the right fork
+Philosopher number 1 has lifted the left fork
+Philosopher number 0 has put down the right fork
+Philosopher: #1# time: #0# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher number 2 has started thinking
+Philosopher number 0 has started thinking
+Philosopher number 4 has stopped eating
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 0 has stopped thinking
+Philosopher number 1 has stopped eating
+Philosopher: #3# time: #502# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 1 has put down the left fork
+Philosopher number 0 can eat because referee told him to
+Philosopher number 0 has lifted the left fork
+Philosopher: #0# time: #0# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 4 has started thinking
+Philosopher number 2 has lifted the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher number 1 has stopped thinking
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher number 3 has stopped eating
+Philosopher number 4 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 1 has lifted the left fork
+Philosopher: #2# time: #501# [ms]
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has put down the left fork
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 4 has lifted the left fork
+Philosopher: #4# time: #1# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher number 3 has stopped thinking
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher: #1# time: #502# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher: #3# time: #0# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher number 0 has lifted the left fork
+Philosopher number 1 has stopped eating
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher: #0# time: #501# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher number 4 has lifted the left fork
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher: #2# time: #0# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 1 has stopped thinking
+Philosopher number 3 has stopped thinking
+Philosopher number 0 has stopped eating
+Philosopher number 1 can eat because referee told him to
+Philosopher: #4# time: #517# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 1 has lifted the left fork
+Philosopher number 3 can eat because referee told him to
+Philosopher number 0 has started thinking
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher number 3 has lifted the left fork
+Philosopher: #1# time: #2# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 0 has lifted the left fork
+Philosopher: #3# time: #502# [ms]
+Philosopher number 4 has started thinking
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher: #0# time: #16# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher: #2# time: #485# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher number 4 has lifted the left fork
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 1 has lifted the left fork
+Philosopher: #4# time: #17# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 0 has started thinking
+Philosopher number 3 has stopped thinking
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher: #1# time: #486# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 2 has started thinking
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 0 has lifted the left fork
+Philosopher number 4 has started thinking
+Philosopher: #3# time: #17# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 1 has stopped eating
+Philosopher number 2 has stopped thinking
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher: #0# time: #485# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 4 has lifted the left fork
+Philosopher: #2# time: #16# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher: #4# time: #485# [ms]
+Philosopher number 1 has lifted the left fork
+Philosopher number 0 has started thinking
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 3 has stopped thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher: #1# time: #16# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 3 has lifted the left fork
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher: #3# time: #486# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 0 has lifted the left fork
+Philosopher number 4 has started thinking
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher: #0# time: #15# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 4 has lifted the left fork
+Philosopher: #2# time: #485# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 3 has started thinking
+Philosopher number 1 has stopped thinking
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher: #4# time: #16# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 1 can eat because referee told him to
+Philosopher number 1 has lifted the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher number 3 has stopped thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher: #1# time: #486# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 3 has lifted the left fork
+Philosopher number 4 has stopped eating
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 4 has put down the left fork
+Philosopher: #3# time: #16# [ms]
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 0 has lifted the left fork
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 2 has stopped thinking
+Philosopher: #0# time: #485# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher: #2# time: #16# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 4 has lifted the left fork
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher: #4# time: #486# [ms]
+Philosopher number 1 has lifted the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher number 3 has stopped thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher: #1# time: #16# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 3 has lifted the left fork
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher: #3# time: #485# [ms]
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 0 has lifted the left fork
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 4 has started thinking
+Philosopher number 1 has stopped eating
+Philosopher number 2 has stopped thinking
+Philosopher: #0# time: #16# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 2 can eat because referee told him to
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher number 2 has lifted the left fork
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher: #2# time: #486# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 4 has lifted the left fork
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher: #4# time: #16# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher number 1 has lifted the left fork
+Philosopher number 3 has stopped thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher number 3 has lifted the left fork
+Philosopher: #1# time: #485# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 0 has lifted the left fork
+Philosopher: #3# time: #16# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher: #0# time: #485# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 2 has lifted the left fork
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher: #2# time: #17# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 4 has lifted the left fork
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher number 1 has lifted the left fork
+Philosopher: #4# time: #484# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 3 has stopped thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher: #1# time: #18# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 3 has lifted the left fork
+Philosopher number 4 has stopped eating
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher: #3# time: #486# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 0 has lifted the left fork
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher: #0# time: #16# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher: #2# time: #486# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 4 has lifted the left fork
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher: #4# time: #17# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 1 has lifted the left fork
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher number 3 has stopped thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher: #1# time: #484# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher: #3# time: #32# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 4 has put down the right fork
+Philosopher number 0 has lifted the left fork
+Philosopher number 4 has started thinking
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher: #0# time: #497# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher number 4 has lifted the left fork
+Philosopher: #2# time: #32# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 0 has stopped eating
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher: #4# time: #470# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher number 1 has lifted the left fork
+Philosopher number 2 has stopped eating
+Philosopher number 3 has stopped thinking
+Philosopher: #1# time: #33# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 0 has lifted the left fork
+Philosopher: #3# time: #485# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher: #0# time: #18# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher number 3 has stopped eating
+Philosopher number 4 has stopped thinking
+Philosopher: #2# time: #484# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 4 has lifted the left fork
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 1 has lifted the left fork
+Philosopher: #4# time: #16# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher: #1# time: #486# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 3 has stopped thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 0 has lifted the left fork
+Philosopher: #3# time: #16# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher: #0# time: #485# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 2 has lifted the left fork
+Philosopher number 3 has stopped eating
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher: #2# time: #17# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 4 has lifted the left fork
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher: #4# time: #485# [ms]
+Philosopher number 1 has lifted the left fork
+Philosopher number 0 has started thinking
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher: #1# time: #16# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 3 has stopped thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher: #3# time: #485# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 0 has lifted the left fork
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher: #0# time: #16# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 2 has lifted the left fork
+Philosopher number 3 has stopped eating
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher: #2# time: #485# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 4 has lifted the left fork
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher number 1 has lifted the left fork
+Philosopher: #4# time: #16# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 2 has stopped eating
+Philosopher number 3 has stopped thinking
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher: #1# time: #486# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 4 has stopped eating
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher: #3# time: #16# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 0 has lifted the left fork
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 2 has stopped thinking
+Philosopher: #0# time: #484# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher: #2# time: #16# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 4 has lifted the left fork
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher number 0 has put down the right fork
+Philosopher number 0 has started thinking
+Philosopher number 1 has lifted the left fork
+Philosopher: #4# time: #470# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher number 2 has started thinking
+Philosopher: #1# time: #17# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 3 has stopped thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher number 0 has stopped thinking
+Philosopher number 0 can eat because referee told him to
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher: #3# time: #485# [ms]
+Philosopher number 4 has put down the right fork
+Philosopher number 4 has started thinking
+Philosopher number 0 has lifted the left fork
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 1 has started thinking
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher: #0# time: #18# [ms]
+Philosopher number 0 has lifted the right fork and started eating
+Philosopher number 4 has stopped thinking
+Philosopher number 4 can eat because referee told him to
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher number 3 has started thinking
+Philosopher: #2# time: #484# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 4 has lifted the left fork
+Philosopher number 1 has stopped thinking
+Philosopher number 1 can eat because referee told him to
+Philosopher number 0 has stopped eating
+Philosopher number 0 has put down the left fork
+Philosopher: #4# time: #32# [ms]
+Philosopher number 4 has lifted the right fork and started eating
+Philosopher number 0 has put down the right fork
+Philosopher number 1 has lifted the left fork
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
+Philosopher: #1# time: #485# [ms]
+Philosopher number 1 has lifted the right fork and started eating
+Philosopher number 3 has stopped thinking
+Philosopher number 3 can eat because referee told him to
+Philosopher number 3 has lifted the left fork
+Philosopher number 2 has started thinking
+Philosopher number 4 has stopped eating
+Philosopher number 4 has put down the left fork
+Philosopher number 4 has put down the right fork
+Philosopher: #3# time: #53# [ms]
+Philosopher number 3 has lifted the right fork and started eating
+Philosopher number 1 has stopped eating
+Philosopher number 1 has put down the left fork
+Philosopher number 1 has put down the right fork
+Philosopher number 2 has stopped thinking
+Philosopher number 2 can eat because referee told him to
+Philosopher number 2 has lifted the left fork
+Philosopher number 3 has stopped eating
+Philosopher number 3 has put down the left fork
+Philosopher number 3 has put down the right fork
+Philosopher: #2# time: #53# [ms]
+Philosopher number 2 has lifted the right fork and started eating
+Philosopher number 2 has stopped eating
+Philosopher number 2 has put down the left fork
+Philosopher number 2 has put down the right fork
