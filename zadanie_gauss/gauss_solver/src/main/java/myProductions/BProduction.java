@@ -28,7 +28,7 @@ public class BProduction extends AbstractProduction<MyMatrix> {
     @Override
     public MyMatrix apply(MyMatrix _p) {
         double newValue = matrix.get(i, j)*mMatrix.get(k, i);
-        nMatrix.set(k, i, newValue);
+        nMatrix.set(k, j, newValue);
         return getObj();
     }
 }

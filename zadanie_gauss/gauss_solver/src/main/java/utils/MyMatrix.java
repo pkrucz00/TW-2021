@@ -10,10 +10,10 @@ public class MyMatrix {
     int size;
     double[][] matrix;
 
-    public MyMatrix(int size){
-        this.size = size;
+    public MyMatrix(int sizeX, int sizeY){
+        this.size = sizeX;
 
-        matrix = new double[size][size];
+        matrix = new double[sizeX][sizeY];
         for (int i = 0; i < size; i++){
             for (int j = 0; j < size; j++){
                 matrix[i][j] = 0.0;

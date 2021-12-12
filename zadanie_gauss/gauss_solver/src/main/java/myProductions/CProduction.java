@@ -22,7 +22,7 @@ public class CProduction extends AbstractProduction<MyMatrix> {
 
     @Override
     public MyMatrix apply(MyMatrix _p) {
-        double newValue = matrix.get(k, j) - nMatrix.get(k, i);
+        double newValue = matrix.get(k, j) - nMatrix.get(k, j);
         matrix.set(k, j, newValue);
         return getObj();
     }

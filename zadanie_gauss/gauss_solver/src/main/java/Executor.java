@@ -23,18 +23,19 @@ public class Executor extends Thread {
         this.outputFilename = outputFilename;
 
         n = matrix.getSize();
-        mMatrix = new MyMatrix(n);
-        nMatrix = new MyMatrix(n);
+        mMatrix = new MyMatrix(n, n);
+        nMatrix = new MyMatrix(n, n+1);
     }
 
     @Override
     public void run() {
+        System.out.println("Input matrix:\n" + matrix + "\n");
         for (int i = 0; i < n; i++){
             processAProductions(i);
             processBProductions(i);
             processCProductions(i);
 
-            printProgress(i);
+            printProgress(i+1);
         }
         matrix.solveTriangularMatrix();
         System.out.println("Matrix after solving:\n" + matrix);
