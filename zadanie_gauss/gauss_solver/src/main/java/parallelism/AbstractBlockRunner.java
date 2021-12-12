@@ -1,6 +1,7 @@
 package parallelism;
 
 import myProductions.IProduction;
+import utils.MyMatrix;
 
 import java.util.AbstractQueue;
 import java.util.ArrayList;
@@ -10,7 +11,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public abstract class AbstractBlockRunner<T extends IProduction> implements BlockRunner<T> {
+public abstract class AbstractBlockRunner<T extends IProduction<MyMatrix>> implements BlockRunner<T> {
 
     private final AbstractQueue<T> list = new ConcurrentLinkedQueue<T>();
 
